@@ -91,9 +91,3 @@ hive:
       #打开PSCache，并指定每个连接上PSCache的大小。oracle设为true，mysql设为false。分库分表较多推荐设置为false
       poolPreparedStatements: false
       maxPoolPreparedStatementPerConnectionSize: 10
-  namenodes: hdfs://192.168.159.206:8020
-es:
-  clusterName: elasticsearch
-  clientTransportSniff: ture
-  port: 9300
-  hostname: 127.0.0.1
