@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <hadoop.version>2.6.0-cdh5.14.4</hadoop.version>
-        <zookeeper.version>3.4.5-cdh5.14.4</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <hive.version>1.1.0-cdh5.14.4</hive.version>
         <zookeeper.scope>compile</zookeeper.scope>
         <hadoop.scope>compile</hadoop.scope>
